@@ -50,6 +50,7 @@
     <color name="key_hint_letter_color_lxx_dark">#80FFFFFF</color>
     <color name="key_background_normal_lxx_dark">#2AAAAAAA</color>
     <color name="key_background_pressed_lxx_dark">#4AAAAAAA</color>
+    <color name="key_red">#FFFF0000</color>
     <!-- Dimensions for all themes. -->
     <dimen name="button_corner_radius_lxx">6dp</dimen>
  </resources>
